@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'dart:ui';
 import 'package:flutter_svg/flutter_svg.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:travelku_app/pages/book_now.dart';
 import 'package:travelku_app/pages/discover.dart';
 import 'package:travelku_app/pages/on_boarding.dart';
 
