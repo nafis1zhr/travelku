@@ -1,6 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:travelku_app/pages/book_now.dart';
-import 'package:travelku_app/pages/discover.dart';
 import 'package:travelku_app/pages/on_boarding.dart';
 
 
